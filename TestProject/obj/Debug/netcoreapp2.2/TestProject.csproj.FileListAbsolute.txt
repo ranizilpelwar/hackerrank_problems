@@ -1,0 +1,17 @@
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/TestProject.deps.json
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/TestProject.runtimeconfig.json
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/TestProject.runtimeconfig.dev.json
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/TestProject.dll
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/TestProject.pdb
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/obj/Debug/netcoreapp2.2/TestProject.csprojAssemblyReference.cache
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/obj/Debug/netcoreapp2.2/TestProject.csproj.CoreCompileInputs.cache
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/obj/Debug/netcoreapp2.2/TestProject.AssemblyInfoInputs.cache
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/obj/Debug/netcoreapp2.2/TestProject.AssemblyInfo.cs
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/obj/Debug/netcoreapp2.2/TestProject.dll
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/obj/Debug/netcoreapp2.2/TestProject.pdb
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/ConsoleApp.dll
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/bin/Debug/netcoreapp2.2/ConsoleApp.pdb
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/TestProject/obj/Debug/netcoreapp2.2/TestProject.csproj.CopyComplete

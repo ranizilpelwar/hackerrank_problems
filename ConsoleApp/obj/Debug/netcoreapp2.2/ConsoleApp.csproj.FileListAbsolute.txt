@@ -1,0 +1,11 @@
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.2/ConsoleApp.deps.json
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.2/ConsoleApp.runtimeconfig.json
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.2/ConsoleApp.runtimeconfig.dev.json
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.2/ConsoleApp.dll
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.2/ConsoleApp.pdb
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.2/ConsoleApp.csprojAssemblyReference.cache
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.2/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.2/ConsoleApp.AssemblyInfoInputs.cache
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.2/ConsoleApp.AssemblyInfo.cs
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.2/ConsoleApp.dll
+/Users/ranizilpelwar/Documents/projects/study/hackerrank/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.2/ConsoleApp.pdb
