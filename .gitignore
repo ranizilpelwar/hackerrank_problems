@@ -1,3 +1,6 @@
 .idea
 .vs
 ConsoleApp.sln.DotSettings.user
+*/obj/*
+*/bin/*
+.vscode/
